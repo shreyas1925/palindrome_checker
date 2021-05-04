@@ -16,7 +16,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>Hello, world!</title>
+    <title>Palindrome Checker</title>
     <style>
       body {
         padding: 0px;
